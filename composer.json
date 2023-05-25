@@ -1,0 +1,18 @@
+{
+    "name": "skyshinein31/bitrix",
+    "description": "Bitrix API Library for Laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Skyshinein31\\Bitrix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Skyshine Technologies"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
