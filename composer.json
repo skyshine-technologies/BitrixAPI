@@ -14,5 +14,13 @@
     ],
     "require": {
         "php": ">=7.4"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Skyshinein31\\Bitrix\\BitrixServiceProvider"
+            ],
+            "aliases": {}
+        }
     }
 }
